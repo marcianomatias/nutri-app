@@ -1,0 +1,11 @@
+{
+    "editor.formatOnPaste": false,
+    "cSpell.words": [
+        "senha"
+    ],
+    "editor.wordWrapColumn": 180,
+    "editor.wrappingIndent": "none",
+    "html.format.preserveNewLines": false,
+    "html.format.wrapAttributes": "preserve",
+    "editor.wordWrap": "bounded"
+}
